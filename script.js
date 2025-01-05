@@ -519,7 +519,7 @@ function stopGame() {
     gameOver = true;
     clearInterval(timerInterval);
     timerElement.textContent = 'Time: 0:00';
-    alert('Game Over!');
+    alert(' 🎮 Game Over 🎮!');
 }
 
 // Reset the game
